@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+header{background-color: aqua;}
+
+h1{
+    color:BlueViolet;
+    text-align: center;
+}
+
+footer{
+       background-color: LightGreen;
+}
+
+nav{
+    background-color:rgb(8, 216, 119);
+    border-radius: 10px;
+}
+
+.rtrt {
+       background-color: blue;
+}
